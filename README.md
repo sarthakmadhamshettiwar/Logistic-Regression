@@ -8,3 +8,6 @@ In this project we try to to classify the given picture as 'Cat' or 'Non-cat' pi
 This project was given as programming assignment in WEEK-2 of Andrew-Ng's Deep Learning specialization course on coursera.
 
 Currently this model have test acuraccy of around 70% and training accuracy of around 99%.
+
+
+This project can run easily on Coursera's platform as they have required datasets of the images of cats and their labels.
